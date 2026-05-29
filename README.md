@@ -1,39 +1,76 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm K. Venu Gopal</h1>
 
-###
+<p align="center">
+  Java Full Stack Developer | Spring Boot Learner | Problem Solver
+</p>
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+---
 
-###
+## 🚀 About Me
 
-<h2 align="left">About me</h2>
+* 🌱 Currently learning **Java Full Stack Development**
+* 💻 Building projects with **Java, Spring Boot, Angular, SQL, and MongoDB**
+* 📚 Improving my **Data Structures & Algorithms** skills
+* 🎯 Looking for opportunities to start my career as a **Software Developer**
+* ⚡ Love solving coding problems and building real-world applications
 
-###
+---
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+## 🛠️ Languages & Tools
 
-###
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
+</p>
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## 💡 Skills
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
+* Java
+* Spring Boot
+* Angular
+* SQL
+* MongoDB
+* Git & GitHub
+* REST APIs
+* Data Structures & Algorithms
 
-###
+---
+
+## 🎯 Current Goal
+
+Build useful projects, improve coding skills, and start my career as a Java Full Stack Developer.
+
+---
+
+## 📂 Featured Work
+
+✔ Java Projects
+
+✔ Spring Boot REST APIs
+
+✔ Angular Applications
+
+✔ Database Projects
+
+✔ DSA Solutions
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: Your LinkedIn Link
+* Email: Your Email Address
+
+---
+
+<p align="center">
+  ⭐ Always Learning • Always Building ⭐
+</p>
