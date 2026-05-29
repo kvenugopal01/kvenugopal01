@@ -25,7 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
 </p>
 
@@ -66,8 +65,8 @@ Build useful projects, improve coding skills, and start my career as a Java Full
 
 ## 📫 Connect With Me
 
-* LinkedIn: Your LinkedIn Link
-* Email: Your Email Address
+* LinkedIn: https://www.linkedin.com/in/kommanaboyina-venu-gopal-520a95339/
+* Email: venugopalyadavkommanaboyina@gmail.com
 
 ---
 
