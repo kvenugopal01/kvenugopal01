@@ -1,18 +1,34 @@
-<h1 align="center">Hi 👋, I'm K. Venu Gopal</h1>
+# Hi 👋, I'm K. Venu Gopal
 
 <p align="center">
-  Java Full Stack Developer | Spring Boot Learner | Problem Solver
+  <b>Java Full Stack Developer | Spring Boot Enthusiast | Problem Solver | Lifelong Learner</b>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **Java Full Stack Development**
-* 💻 Building projects with **Java, Spring Boot, Angular, SQL, and MongoDB**
-* 📚 Improving my **Data Structures & Algorithms** skills
-* 🎯 Looking for opportunities to start my career as a **Software Developer**
-* ⚡ Love solving coding problems and building real-world applications
+I am an aspiring **Java Full Stack Developer** passionate about building scalable and user-friendly applications. I enjoy transforming ideas into real-world software solutions using modern technologies and continuously improving my development skills through hands-on projects and problem-solving.
+
+### 🌱 Currently Learning
+
+* Advanced Java Programming
+* Spring Boot & Microservices
+* Angular Framework
+* Database Design & Optimization
+* Data Structures & Algorithms
+
+### 🎯 Career Objective
+
+To begin my professional journey as a Software Developer where I can contribute to impactful projects, enhance my technical expertise, and grow as a full-stack engineer.
+
+### ⚡ What I Enjoy
+
+* Building Full Stack Applications
+* Designing RESTful APIs
+* Solving Coding Challenges
+* Learning New Technologies
+* Exploring Software Architecture & Best Practices
 
 ---
 
@@ -25,53 +41,97 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="45" alt="ASP.NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="45" alt="ASP.NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="IntelliJ IDEA" />
 </p>
 
 ---
 
-## 💡 Skills
+## 💡 Technical Skills
+
+### Programming Languages
 
 * Java
-* Spring Boot
-* ASP.NET
-* Angular
 * SQL
-* MongoDB
-* Git & GitHub
+* JavaScript
+* C#
+
+### Backend Technologies
+
+* Spring Boot
 * REST APIs
+* ASP.NET
+
+### Frontend Technologies
+
+* Angular
+* HTML5
+* CSS3
+* Bootstrap
+
+### Databases
+
+* MySQL
+* MongoDB
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* IntelliJ IDEA
+* VS Code
+* Postman
+
+### Computer Science Fundamentals
+
 * Data Structures & Algorithms
-
----
-
-## 🎯 Current Goal
-
-Build useful projects, improve coding skills, and start my career as a Java Full Stack Developer.
+* Object-Oriented Programming (OOP)
+* Database Management Systems (DBMS)
+* Software Development Life Cycle (SDLC)
 
 ---
 
 ## 📂 Featured Work
 
-✔ Java Projects
+### 🔹 Java Projects
 
-✔ Spring Boot REST APIs
+Developed console-based and object-oriented applications to strengthen core Java concepts.
 
-✔ Angular Applications
+### 🔹 Spring Boot Applications
 
-✔ Database Projects
+Built RESTful APIs with CRUD operations, validation, and database integration.
 
-✔ DSA Solutions
+### 🔹 Angular Applications
+
+Created responsive and interactive user interfaces with Angular.
+
+### 🔹 Database Projects
+
+Designed relational and NoSQL database solutions using MySQL and MongoDB.
+
+### 🔹 DSA Practice
+
+Regularly solving coding challenges to improve problem-solving and algorithmic thinking.
+
+---
+
+## 📈 Current Focus
+
+* Building Full Stack Projects
+* Strengthening DSA Skills
+* Learning System Design Fundamentals
+* Exploring Spring Security & Microservices
+* Contributing to Open Source Projects
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/kommanaboyina-venu-gopal-520a95339/
-* Email: venugopalyadavkommanaboyina@gmail.com
+* LinkedIn: [www.linkedin.com/in/kommanaboyina-venu-gopal-520a95339](http://www.linkedin.com/in/kommanaboyina-venu-gopal-520a95339)
+* Email: [venugopalyadavkommanaboyina@gmail.com](mailto:venugopalyadavkommanaboyina@gmail.com)
 
 ---
 
 <p align="center">
-  ⭐ Always Learning • Always Building ⭐
+  ⭐ Passionate About Learning • Building • Growing ⭐
 </p>
