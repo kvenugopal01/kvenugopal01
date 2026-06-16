@@ -67,7 +67,7 @@ To begin my professional journey as a Software Developer where I can contribute 
 * Angular
 * HTML5
 * CSS3
-* Bootstrap
+  
 
 ### Databases
 
@@ -97,7 +97,7 @@ To begin my professional journey as a Software Developer where I can contribute 
 
 Developed console-based and object-oriented applications to strengthen core Java concepts.
 
-### 🔹 Spring Boot Applications
+### 🔹 Spring Boot Applications & Microservices
 
 Built RESTful APIs with CRUD operations, validation, and database integration.
 
