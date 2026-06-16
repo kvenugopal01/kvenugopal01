@@ -41,7 +41,6 @@ To begin my professional journey as a Software Developer where I can contribute 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="45" alt="ASP.NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="IntelliJ IDEA" />
 </p>
 
@@ -54,13 +53,12 @@ To begin my professional journey as a Software Developer where I can contribute 
 * Java
 * SQL
 * JavaScript
-* C#
+
 
 ### Backend Technologies
 
 * Spring Boot
 * REST APIs
-* ASP.NET
 
 ### Frontend Technologies
 
@@ -68,7 +66,6 @@ To begin my professional journey as a Software Developer where I can contribute 
 * HTML5
 * CSS3
   
-
 ### Databases
 
 * MySQL
