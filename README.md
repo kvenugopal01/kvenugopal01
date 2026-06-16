@@ -13,7 +13,7 @@ I am an aspiring **Java Full Stack Developer** passionate about building scalabl
 ### 🌱 Currently Learning
 
 * Advanced Java Programming
-* Spring Boot & Microservices
+* Spring Boot 
 * Angular Framework
 * Database Design & Optimization
 * Data Structures & Algorithms
