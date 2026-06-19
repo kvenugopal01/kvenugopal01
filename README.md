@@ -116,13 +116,6 @@
 ---
 
 ## 🚀 Featured Projects
-
-### 🛡️ AI Phishing Detection
-
-* Built a Machine Learning-powered web application to detect phishing URLs.
-* Implemented feature extraction and prediction models using Python.
-* Developed an interactive user interface using Flask.
-
 ### 🎨 Air Canvas
 
 * Developed a gesture-controlled virtual drawing application using Computer Vision.
