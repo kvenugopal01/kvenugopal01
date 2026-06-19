@@ -1,34 +1,43 @@
 # Hi 👋, I'm K. Venu Gopal
 
 <p align="center">
-  <b>Java Full Stack Developer | Spring Boot Enthusiast | Problem Solver | Lifelong Learner</b>
+  <b>Java Full Stack Developer | AI Enthusiast | Problem Solver | Continuous Learner</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kvenugopal01">
+    <img src="https://img.shields.io/github/followers/kvenugopal01?label=Followers&style=social" />
+  </a>
+  <a href="https://github.com/kvenugopal01">
+    <img src="https://img.shields.io/github/stars/kvenugopal01?affiliations=OWNER&style=social" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am an aspiring **Java Full Stack Developer** passionate about building scalable and user-friendly applications. I enjoy transforming ideas into real-world software solutions using modern technologies and continuously improving my development skills through hands-on projects and problem-solving.
+🎓 B.Tech Computer Science Engineering (Artificial Intelligence) Student
 
-### 🌱 Currently Learning
+💻 Aspiring Java Full Stack Developer with hands-on experience in Java, Spring Boot, Angular, SQL, and MongoDB.
 
+🤖 Passionate about Artificial Intelligence, Machine Learning, and building real-world software solutions.
+
+🌱 Constantly learning new technologies and improving problem-solving skills through projects, DSA, and open-source contributions.
+
+🎯 Seeking opportunities to contribute, learn, and grow as a Software Engineer.
+
+---
+
+## 🌱 Currently Learning
+
+* Spring Security
+* Microservices Architecture
 * Advanced Java Programming
-* Spring Boot 
-* Angular Framework
-* Database Design & Optimization
+* Angular Development
 * Data Structures & Algorithms
-
-### 🎯 Career Objective
-
-To begin my professional journey as a Software Developer where I can contribute to impactful projects, enhance my technical expertise, and grow as a full-stack engineer.
-
-### ⚡ What I Enjoy
-
-* Building Full Stack Applications
-* Designing RESTful APIs
-* Solving Coding Challenges
-* Learning New Technologies
-* Exploring Software Architecture & Best Practices
+* System Design Fundamentals
+* Machine Learning Applications
 
 ---
 
@@ -36,10 +45,16 @@ To begin my professional journey as a Software Developer where I can contribute 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="Angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="IntelliJ IDEA" />
 </p>
@@ -51,25 +66,34 @@ To begin my professional journey as a Software Developer where I can contribute 
 ### Programming Languages
 
 * Java
+* Python
 * SQL
 * JavaScript
 
-
-### Backend Technologies
+### Backend Development
 
 * Spring Boot
-* REST APIs
+* RESTful APIs
+* Spring MVC
+* JPA / Hibernate
 
-### Frontend Technologies
+### Frontend Development
 
 * Angular
 * HTML5
 * CSS3
-  
+
 ### Databases
 
 * MySQL
 * MongoDB
+
+### AI & Machine Learning
+
+* Machine Learning Fundamentals
+* Data Analysis
+* Feature Engineering
+* Model Training
 
 ### Tools & Platforms
 
@@ -78,57 +102,88 @@ To begin my professional journey as a Software Developer where I can contribute 
 * IntelliJ IDEA
 * VS Code
 * Postman
+* Maven
 
 ### Computer Science Fundamentals
 
 * Data Structures & Algorithms
 * Object-Oriented Programming (OOP)
-* Database Management Systems (DBMS)
-* Software Development Life Cycle (SDLC)
+* DBMS
+* Operating Systems
+* Computer Networks
+* SDLC
 
 ---
 
-## 📂 Featured Work
+## 🚀 Featured Projects
 
-### 🔹 Java Projects
+### 🛡️ AI Phishing Detection
 
-Developed console-based and object-oriented applications to strengthen core Java concepts.
+* Built a Machine Learning-powered web application to detect phishing URLs.
+* Implemented feature extraction and prediction models using Python.
+* Developed an interactive user interface using Flask.
 
-### 🔹 Spring Boot Applications & Microservices
+### 🎨 Air Canvas
 
-Built RESTful APIs with CRUD operations, validation, and database integration.
+* Developed a gesture-controlled virtual drawing application using Computer Vision.
+* Utilized OpenCV and MediaPipe for hand tracking and drawing functionality.
 
-### 🔹 Angular Applications
+### 👨‍💼 Employee Management System
 
-Created responsive and interactive user interfaces with Angular.
+* Built a full-stack employee management application.
+* Implemented CRUD operations and database integration.
 
-### 🔹 Database Projects
+### 📚 Attendance Management System
 
-Designed relational and NoSQL database solutions using MySQL and MongoDB.
-
-### 🔹 DSA Practice
-
-Regularly solving coding challenges to improve problem-solving and algorithmic thinking.
+* Developed using Java Swing and MySQL.
+* Automated attendance tracking and student record management.
 
 ---
 
 ## 📈 Current Focus
 
-* Building Full Stack Projects
-* Strengthening DSA Skills
-* Learning System Design Fundamentals
-* Exploring Spring Security & Microservices
-* Contributing to Open Source Projects
+* Building Production-Ready Full Stack Applications
+* Strengthening DSA & Problem Solving Skills
+* Learning Spring Security & Microservices
+* Exploring AI & Machine Learning Projects
+* Open Source Contributions
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
-* LinkedIn: [www.linkedin.com/in/kommanaboyina-venu-gopal-520a95339](http://www.linkedin.com/in/kommanaboyina-venu-gopal-520a95339)
-* Email: [venugopalyadavkommanaboyina@gmail.com](mailto:venugopalyadavkommanaboyina@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kvenugopal01&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kvenugopal01" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvenugopal01&layout=compact" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/kommanaboyina-venu-gopal-520a95339/
+
+💻 GitHub: https://github.com/kvenugopal01
+
+📧 Email: [venugopalyadavkommanaboyina@gmail.com](mailto:venugopalyadavkommanaboyina@gmail.com)
+
+🧩 LeetCode: https://leetcode.com/u/venugopalyadav01/
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy transforming ideas into real-world applications and continuously challenging myself through coding, problem-solving, and learning emerging technologies.
 
 ---
 
 <p align="center">
-  ⭐ Passionate About Learning • Building • Growing ⭐
+  ⭐ Passionate About Learning • Building • Innovating • Growing ⭐
 </p>
