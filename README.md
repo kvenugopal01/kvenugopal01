@@ -108,12 +108,6 @@
 
 ## 🚀 Featured Projects
 
-### 🎨 Air Canvas
-
-* Developed a gesture-controlled virtual drawing application.
-* Implemented real-time hand tracking and drawing functionality.
-* Improved user interaction through intuitive gesture controls.
-
 ### 👨‍💼 Employee Management System
 
 * Built a full-stack employee management application.
