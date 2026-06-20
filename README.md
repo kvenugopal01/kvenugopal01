@@ -1,7 +1,7 @@
 # Hi 👋, I'm K. Venu Gopal
 
 <p align="center">
-  <b>Java Full Stack Developer | AI Enthusiast | Problem Solver | Continuous Learner</b>
+  <b>Java Full Stack Developer | Spring Boot Enthusiast | Problem Solver | Continuous Learner</b>
 </p>
 
 <p align="center">
@@ -21,9 +21,9 @@
 
 💻 Aspiring Java Full Stack Developer with hands-on experience in Java, Spring Boot, Angular, SQL, and MongoDB.
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, and building real-world software solutions.
+🚀 Passionate about building scalable web applications and solving real-world problems through software development.
 
-🌱 Constantly learning new technologies and improving problem-solving skills through projects, DSA, and open-source contributions.
+🌱 Continuously learning modern backend technologies, system design, and full-stack development.
 
 🎯 Seeking opportunities to contribute, learn, and grow as a Software Engineer.
 
@@ -37,7 +37,7 @@
 * Angular Development
 * Data Structures & Algorithms
 * System Design Fundamentals
-* Machine Learning Applications
+* Cloud Fundamentals (AWS)
 
 ---
 
@@ -45,13 +45,10 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="Angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
@@ -66,34 +63,27 @@
 ### Programming Languages
 
 * Java
-* Python
 * SQL
 * JavaScript
 
 ### Backend Development
 
 * Spring Boot
-* RESTful APIs
 * Spring MVC
+* Spring Security
+* RESTful APIs
 * JPA / Hibernate
+* JWT Authentication
 
 ### Frontend Development
 
 * Angular
-* HTML5
-* CSS3
+* TypeScript
 
 ### Databases
 
 * MySQL
 * MongoDB
-
-### AI & Machine Learning
-
-* Machine Learning Fundamentals
-* Data Analysis
-* Feature Engineering
-* Model Training
 
 ### Tools & Platforms
 
@@ -103,6 +93,7 @@
 * VS Code
 * Postman
 * Maven
+* Docker
 
 ### Computer Science Fundamentals
 
@@ -116,20 +107,24 @@
 ---
 
 ## 🚀 Featured Projects
+
 ### 🎨 Air Canvas
 
-* Developed a gesture-controlled virtual drawing application using Computer Vision.
-* Utilized OpenCV and MediaPipe for hand tracking and drawing functionality.
+* Developed a gesture-controlled virtual drawing application.
+* Implemented real-time hand tracking and drawing functionality.
+* Improved user interaction through intuitive gesture controls.
 
 ### 👨‍💼 Employee Management System
 
 * Built a full-stack employee management application.
 * Implemented CRUD operations and database integration.
+* Developed REST APIs using Spring Boot.
 
 ### 📚 Attendance Management System
 
 * Developed using Java Swing and MySQL.
 * Automated attendance tracking and student record management.
+* Implemented JDBC connectivity for database operations.
 
 ---
 
@@ -138,8 +133,8 @@
 * Building Production-Ready Full Stack Applications
 * Strengthening DSA & Problem Solving Skills
 * Learning Spring Security & Microservices
-* Exploring AI & Machine Learning Projects
-* Open Source Contributions
+* Mastering Java Backend Development
+* Contributing to Open Source Projects
 
 ---
 
@@ -178,5 +173,5 @@ I enjoy transforming ideas into real-world applications and continuously challen
 ---
 
 <p align="center">
-  ⭐ Passionate About Learning • Building • Innovating • Growing ⭐
+⭐ Passionate About Learning • Building • Innovating • Growing ⭐
 </p>
